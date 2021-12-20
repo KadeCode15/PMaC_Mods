@@ -1,5 +1,5 @@
 # PMaC_Mods
-A collection of all the mods needed to play on the PMaC server.
+A collection of all the mods needed to play on the PMaC server. (Not yet added)
 
 ## Getting Started
 1. Click the `Code` button above and select `Download ZIP`
