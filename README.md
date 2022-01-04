@@ -7,6 +7,7 @@ A collection of all the mods needed to play on the PMaC server.
     * Just press the windows key then type `run`. It should be the first app that comes up.
 3. Type `%appdata%\.minecraft` into it and press enter.
     * This will open up your file explorer to you installation directory for Minecraft.
+    * ![image](https://user-images.githubusercontent.com/67335671/147997552-99e1408c-40d8-44ff-8fd5-21cfac203dc5.png)
 4. If you don't have a folder named `mods` in that directory, create one spelled exactly like that.
 5. Move the `.zip` file you downloaded into the `mods` directory.
 6. Unzip the file.
