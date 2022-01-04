@@ -11,6 +11,8 @@ A collection of all the mods needed to play on the PMaC server.
 5. Move the `.zip` file you downloaded into the `mods` directory.
 6. Unzip the file.
     * Make sure all the `.jar` files are in the `mods` folder. They cannot be in a subdirectory.
+    * ![image](https://user-images.githubusercontent.com/67335671/147997090-0d032d28-f97c-4085-b3cf-c29de36df14f.png)
+
 7. Install fabric by running the fabric installer in the repo: `fabric-installer-0.10.2.exe`. The default settings will be fine, just make sure the version is the same
     * ![image](https://user-images.githubusercontent.com/67335671/147997006-6649f60d-12f8-4d58-b73e-c8661086c571.png)
 9. Restart Minecraft.
