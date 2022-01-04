@@ -18,6 +18,6 @@ A collection of all the mods needed to play on the PMaC server.
     * ![image](https://user-images.githubusercontent.com/67335671/147997006-6649f60d-12f8-4d58-b73e-c8661086c571.png)
 9. Restart Minecraft and select `fabric-loader-1.18.1` as your version of minecraft.
     * ![image](https://user-images.githubusercontent.com/67335671/147997492-28ae9304-3d02-4796-b139-4728679e0413.png)
-
+10. Play PMaC!
 
 
