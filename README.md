@@ -3,9 +3,9 @@ A collection of all the mods needed to play on the PMaC server.
 
 ## Getting Started with Mods
 1. Click the `Code` button above and select `Download ZIP`
-2. Open the run application on your computer.
+2. Open the run application on your computer on Mac this is the Go application (I think).
     * Just press the windows key then type `run`. It should be the first app that comes up.
-3. Type `%appdata%\.minecraft` into it and press enter.
+3. Type `%appdata%\.minecraft` into it and press enter. On Mac tyep in `~/Library/Application Support/minecraft`
     * This will open up your file explorer to you installation directory for Minecraft.
     * ![image](https://user-images.githubusercontent.com/67335671/147997552-99e1408c-40d8-44ff-8fd5-21cfac203dc5.png)
 4. If you don't have a folder named `mods` in that directory, create one spelled exactly like that.
@@ -19,5 +19,4 @@ A collection of all the mods needed to play on the PMaC server.
 9. Restart Minecraft and select `fabric-loader-1.18.1` as your version of minecraft.
     * ![image](https://user-images.githubusercontent.com/67335671/147997492-28ae9304-3d02-4796-b139-4728679e0413.png)
 10. Play PMaC!
-
 
