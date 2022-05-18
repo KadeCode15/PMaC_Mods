@@ -11,7 +11,10 @@ A collection of all the mods needed to play on the PMaC server.
 4. If you don't have a folder named `mods` in that directory, create one spelled exactly like that.
 5. Move the `.zip` file you downloaded into the `mods` directory.
 6. Unzip the file.
-    * Make sure all the `.jar` files are in the `mods` folder. They cannot be in a subdirectory.
+    * At this point, you will choose between the `Optifine` and `IrisSodium` folders. Delete the one you don't want. They are both performance mods, but have slightly different features.
+      * `Optifine` - Easier to configure (recommended).
+      * `IrisSodium` - More dificult to configure, but roughly 2x as many fps as Optifine.
+    * Make sure all the `.jar` files from either the `Optifine` or `IrisSodium` folder (whichever you chose) are placed directly in the `mods` folder. They cannot be in a subdirectory.
     * ![image](https://user-images.githubusercontent.com/67335671/147997090-0d032d28-f97c-4085-b3cf-c29de36df14f.png)
 
 7. Install fabric by running the fabric installer in the repo: `fabric-installer-0.10.2.exe`. You can run this in any directory, but move it out of your mods folder (a good spot would be in your downloads or something then double click it). The default settings will be fine, just make sure the version is the same. Our version is 1.18.2 and you don't have to change the loader version or install directory.
